@@ -1,0 +1,7 @@
+1. Social Media Platform
+
+Features: Users can register, create profiles, post updates, like and comment on posts, follow other users, and receive notifications. Incorporate features like hashtags and user tagging.
+
+Tech Stack: Django, Django REST Framework (DRF), WebSockets (for real-time notifications), Redis (for caching).
+
+Challenges: Building a real-time notification system, handling large volumes of data, and managing relationships like followers and following.
