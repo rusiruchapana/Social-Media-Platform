@@ -5,3 +5,5 @@ Features: Users can register, create profiles, post updates, like and comment on
 Tech Stack: Django, Django REST Framework (DRF), WebSockets (for real-time notifications), Redis (for caching).
 
 Challenges: Building a real-time notification system, handling large volumes of data, and managing relationships like followers and following.
+
+chatgpt link:- https://chatgpt.com/share/672b68cb-3a24-8008-a646-831d0af69784
